@@ -13,3 +13,6 @@ Do note that some of the documentation may be outdated. Stuff such as the flowch
 # Research
 In this directory you find the **Research** that was done while we where working on the Mini-Fluffy project.
 
+# Dobot Integration
+in this directory, you find the latest version of the mini-fluffy program, fitted with error handling and robot station handling. you will also find the dobot MG400 program. simply import this project in your dobot studio to show the code.
+
